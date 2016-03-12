@@ -1,2 +1,2 @@
 # DH5
-Embedded  HTML for D
+Embedded  HTML5 for D
